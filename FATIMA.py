@@ -35,7 +35,7 @@ year = datetime.now().year
 indo = "%s-%s-%s"%(days,reall,year)
 
 
-)
+
 #-------------------[ COLOR FOR PYTHON RICH ]----------------------#
 M = 'color(1)' # ABANG
 H = 'color(2)' # IJO
